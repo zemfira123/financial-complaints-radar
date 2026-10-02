@@ -219,8 +219,7 @@ __marimo__/
 
 data/raw/
 data/processed/
-.env
 *.key
 .DS_Store
 .ipynb_checkpoints/
-__pycache__/
+data/CFPB_data/*.csv

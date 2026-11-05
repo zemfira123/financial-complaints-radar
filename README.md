@@ -88,8 +88,6 @@ financial-complaints-radar/
 │   ├── 02_data_quality.ipynb
 │   ├── 03_data_cleaning.ipynb
 │   └── 04_eda.ipynb
-├── reports/
-│   └── figures/         # каталог для итоговых графиков
 ├── .gitignore
 └── README.md
 ```
